@@ -1,1 +1,1 @@
-# www.urionlinejudge.com_JavaScript
+# www.urionlinejudge.com JavaScript
