@@ -1,1 +1,1 @@
-# www.urionlinejudge.com JavaScript
+# URI Online Judge Programming With JavaScript
