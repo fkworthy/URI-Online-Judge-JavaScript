@@ -1,1 +1,1 @@
-# URI Online Judge Programming With JavaScript
+# URI-Online-Judge-JavaScript
